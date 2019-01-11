@@ -1,4 +1,4 @@
-# Aprende-AWS-Lambda
+# Aprende AWS Lambda
 Aprenda a usar AWS Lambda para crear microservicios escalables en menos tiempo y con un costo mucho menor a las aplicaciones tradicionales basadas en servidores.
 
 ![aws lambda imagen de intro](https://s3.amazonaws.com/spot-resources/SPOT/services.jpg)
