@@ -14,10 +14,11 @@ Aprenda a usar AWS Lambda para crear microservicios escalables en menos tiempo y
 
 ## ¿Qué es Lambda?
 
-AWS (Amazon Web Services) Lambda permite ejecutar funciones escritas en Javascript (Node.js), Java, Python, C#, Go y Ruby
+AWS (Amazon Web Services) Lambda permite ejecutar funciones escritas en Javascript (Node.js), Java, Python, C#, Go,Ruby y [cualquier Runtime](https://docs.aws.amazon.com/lambda/latest/dg/runtimes-custom.html)  a partir de un proceso de bootstrap*.
 en un entorno inmensamente escalable en la nube de Amazon sin la necesidad de aprovisionar ni administrar instancias VM
 Solo se necesita cargar el código y AWS Lambda se encargará de todo lo necesario para ejecutar y escalar el código con alta disponibilidad. Ademas, se puede configurar que dicha función sea ejecutada automáticamente desde otros servicios de AWS o desde cualquier aplicación web o móvil.
 
 
 
 
+PD: [en el ultimo AWS Re:invent se agrego la posibilidad de cualquier runtime.](https://thenewstack.io/aws-extends-lambda-service-with-a-custom-runtime-layered-libraries/)
